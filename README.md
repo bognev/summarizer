@@ -36,8 +36,9 @@ A markdown, html or xlsx report with summary statistics
 
 ## How to run
 ```bash
-git clone https://github.com/akamaster/pytorch_resnet_cifar10
-cd pytorch_resnet_cifar10
+git clone https://github.com/bognev/summarizer.git
+cd summarizer
+python -m pip install ./dist/summarizer_package-0.1.0.tar.gz
 chmod +x run.sh && ./run.sh
 ```
 or 
