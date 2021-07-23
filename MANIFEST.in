@@ -1,0 +1,17 @@
+recursive-exclude __pycache__  *.pyc *.pyo *.orig
+
+exclude *.js*
+exclude *.git*
+exclude proc*
+exclude pylint*
+
+exclude requirements-dev.*
+
+include pyproject.toml
+include *.md
+include LICENSE
+recursive-include tests test*.py
+include requirements.txt
+
+prune .git
+prune venv

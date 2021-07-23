@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.cfg
+setup.py
+src/summarizer_package.egg-info/PKG-INFO
+src/summarizer_package.egg-info/SOURCES.txt
+src/summarizer_package.egg-info/dependency_links.txt
+src/summarizer_package.egg-info/requires.txt
+src/summarizer_package.egg-info/top_level.txt
+src/summarizerpy/__init__.py
+src/summarizerpy/summarizer.py
+tests/test_summarizer.py

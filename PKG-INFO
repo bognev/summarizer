@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: summarizer_package
+Version: 0.1.0
+Summary: Create Summary Statistics For Each Column in DataFrame
+Home-page: https://github.com/bognev/summarizer_package
+Author: Anton Zabolotsky
+Author-email: bognevg@mail.ru
+License: UNKNOWN
+Project-URL: Documentation, https://github.com/bognev/summarizer_package
+Project-URL: Bug Reports, https://github.com/bognev/summarizer_package/issues
+Project-URL: Source Code, https://github.com/bognev/summarizer_package
+Description: # Summarizer Package
+        
+        In data analysis we are operating with large dataframes, which can contain different types of data, such as binary, numeric, datetime and classification variables. Manual analysis of such dataframes is not efficient, and it could be very helpful to have some statistical overview of the dataframe.
+        <details><summary><strong>Differences from pypa/sampleproject (click to show/hide)</strong></summary>
+        
+        This example package is inspired by / based on the [official sample project pypa/sampleproject](https://github.com/pypa/sampleproject), but this package:
+
+        
+        </details>
+
+        ## Make necessary changes
+        <details>
+        Fork, clone or download the repository [github.com/bognev/summarizer_package](https://github.com/bognev/summarizer_package).
+
+        </details>
+        
+Keywords: example,pypi,package
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
